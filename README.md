@@ -1,1 +1,1 @@
-# My-Final-Project
+# Final-Project-JavaScript
